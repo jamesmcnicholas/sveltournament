@@ -16,7 +16,7 @@
 	<p>
 		This webapp was created to simplify organising and running of Wu tournaments.<br>
 		It's built using Svelte, with a nodejs backend<br>
-		Details on <a href="">GitHub</a>
+		Details on <a href="https://github.com/jamesmcnicholas/sveltournament">GitHub</a>
 	</p>
 </div>
 </section>
